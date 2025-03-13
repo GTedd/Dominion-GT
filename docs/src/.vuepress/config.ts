@@ -43,10 +43,10 @@ export default defineUserConfig({
         plugins: {
             /**
              * Shiki 代码高亮
-             * @see https://theme-plume.vuejs.press/config/plugins/code-highlight/  
+             * @see https://theme-plume.vuejs.press/config/plugins/code-highlight/
              */
             shiki: {
-                languages: ['java', 'yaml', 'kotlin', 'json', 'xml', 'groovy'],  
+                languages: ['java', 'yaml', 'kotlin', 'json', 'xml', 'groovy'],
             },
 
             /**
